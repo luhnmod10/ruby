@@ -4,14 +4,19 @@
 
 A fast and simple in-place implementation of the [luhn check algorithm](https://en.wikipedia.org/wiki/Luhn_algorithm) in Ruby. Implementations in other languages can be found at [github.com/luhn-algorithm](https://github.com/luhnmod10).
 
-## Why
-This is my own attempt to implement the algorithm in-place using the simplest language constructs possible.
-
 ## Usage
 
 ```
 gem install luhnmod10
 ```
+
+or add to the `Gemfile`
+
+```ruby
+gem "luhnmod10"
+```
+
+then
 
 ```ruby
 require "luhnmod10"
