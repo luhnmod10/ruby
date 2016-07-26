@@ -4,6 +4,7 @@ Gem::Specification.new do |s|
   s.platform      = Gem::Platform::RUBY
   s.authors       = "Leigh McCulloch"
   s.licenses      = "MIT"
+  s.homepage      = "https://github.com/luhnmod10/ruby"
   s.summary       = %q{A fast and simple in-place implementation of the luhn check algorithm in Ruby.}
   s.description   = %q{A fast and simple in-place implementation of the luhn check algorithm in Ruby.}
   s.files         = [
