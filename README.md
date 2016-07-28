@@ -6,17 +6,19 @@ A fast and simple in-place implementation of the [luhn check algorithm](https://
 
 ## Usage
 
+Install the gem:
+
 ```
 gem install luhnmod10
 ```
 
-or add to the `Gemfile`
+Or add to the `Gemfile`:
 
 ```ruby
 gem "luhnmod10"
 ```
 
-then
+Then:
 
 ```ruby
 require "luhnmod10"
