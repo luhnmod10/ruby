@@ -10,4 +10,6 @@ Gem::Specification.new do |s|
   s.files         = [
     "lib/luhnmod10.rb"
   ]
+
+  s.add_development_dependency "rake", "~> 11.2.2"
 end
